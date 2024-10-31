@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Física',
-    'Qual é a velocidade mínima para quebrar a barreira do som em quilômetros ?',
+    'Qual é a velocidade mínima para quebrar a barreira do som?',
     '1224 km/h'
 )
 
